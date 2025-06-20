@@ -12,7 +12,7 @@ Contents
 
 [Mancies 5](#_Toc124436875)
 
-[Adaptaciones 6](#_Toc124436876)
+[Adaptaciones 6](#_Toc124436876) - REPLACED BY SKILLS
 
 [Stress 6](#_Toc124436877)
 
@@ -209,7 +209,7 @@ If our character is very good in Oral Expression, he can have _Speechomancy_. Th
 
 **Mantras** are _defined_ by **Mancies**, and our **Mantra** numerical value is directly defined by how many Ranks we have in each **Mancy** of the same colour.
 
-## Adaptaciones
+## Adaptaciones - NOT CURRENT
 
 Muchas personas sabemos hacer algo, pero cada uno lo hace de una manera única. Una persona sabe de autos, pero es buen corredor, otro conoce los mejores caminos, y otro sabe cómo reparar ese modelo de auto poco común.
 
