@@ -6,7 +6,7 @@ Contents
 
 [Introduction 4](#_Toc124436872)
 
-[Base Concepts – TRANSLATION PENDING 5](#_Toc124436873)
+[Base Concepts 5](#_Toc124436873)
 
 [Mantras 5](#_Toc124436874)
 
