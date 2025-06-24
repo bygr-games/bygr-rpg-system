@@ -12,131 +12,131 @@ Contents
 
 [Mancies 5](#_Toc124436875)
 
-[Adaptaciones 6](#_Toc124436876) - REPLACED BY SKILLS
+[Adaptations 6](#_Toc124436876) - REPLACED BY SKILLS
 
 [Stress 6](#_Toc124436877)
 
-[Crecimiento 7](#_Toc124436878)
+[Growth 7](#_Toc124436878)
 
-[Riqueza 7](#_Toc124436879)
+[Wealth 7](#_Toc124436879)
 
-[PCP - ¿Por Cuánto Pasaste? 7](#_Toc124436880)
+[BYM - ¿By How Much? 7](#_Toc124436880)
 
-[TS – Tiradas de Salvación 8](#_Toc124436881)
+[ST – Saving Throws 8](#_Toc124436881)
 
-[Estado Fisico 8](#_Toc124436882)
+[Physical State 8](#_Toc124436882)
 
-[Creación de Personaje 9](#_Toc124436883)
+[Character Creation 9](#_Toc124436883)
 
-[Pasos de Entrevista 9](#_Toc124436884)
+[Interview Steps 9](#_Toc124436884)
 
-[Nombre, Edad y Genero 9](#_Toc124436885)
+[Name, Age, Gender 9](#_Toc124436885)
 
-[¿Qué Quería ser Cuando Grande? 9](#_Toc124436886)
+[What did you want to be when old? 9](#_Toc124436886)
 
-[¿Cuál es el Mantra que Guía su Vida? 9](#_Toc124436887)
+[What is your guiding mantra? 9](#_Toc124436887)
 
-[Tarot de Oficio 9](#_Toc124436888)
+[Profession Tarot 9](#_Toc124436888)
 
-[Deber Pendiente o Compulsión 10](#_Toc124436889)
+[Pending Duty or Compulsion 10](#_Toc124436889)
 
-[Stress Inicial 10](#_Toc124436890)
+[Initial Stress 10](#_Toc124436890)
 
-[Habilidades y Talentos Innatos 10](#_Toc124436891)
+[Skills & Innate Talent 10](#_Toc124436891)
 
-[Tarot de Pasiones 11](#_Toc124436892)
+[Passions Tarot 11](#_Toc124436892)
 
-[\*\*\*Mancias y Talentos 11](#_Toc124436893)
+[\*\*\*Mancies & Talents 11](#_Toc124436893)
 
-[Riqueza 11](#_Toc124436894)
+[Wealth 11](#_Toc124436894)
 
-[¿Cómo Quiere ser Recordado? 11](#_Toc124436895)
+[What do you seek for your legacy? 11](#_Toc124436895)
 
-[Habilidades Principales 11](#_Toc124436896)
+[Main Skills 11](#_Toc124436896)
 
-[Talentos Extra 12](#_Toc124436897)
+[Extra Talents 12](#_Toc124436897)
 
-[Calcular Mantras y Valores Adicionales 12](#_Toc124436898)
+[Calculate Mantras & Additional Values 12](#_Toc124436898)
 
 [Ajustes Opcionales y Setting 12](#_Toc124436899)
 
-[Estrellita Dorada 13](#_Toc124436900)
+[Golden Stars 13](#_Toc124436900)
 
-[Jugando 14](#_Toc124436901)
+[Playing 14](#_Toc124436901)
 
-[Desafíos 14](#_Toc124436902)
+[Challenges 14](#_Toc124436902)
 
-[¿Por cuanto pasaste? 14](#_Toc124436903)
+[By How Much? 14](#_Toc124436903)
 
-[¿Y si no estoy en peligro y no tengo apuro? 15](#_Toc124436904)
+[What if I'm in an unchallenging situation? 15](#_Toc124436904)
 
-[Quiero ayudar a mi amigo en su dificultad 15](#_Toc124436905)
+[Helping Others in Rolls 15](#_Toc124436905)
 
-[Estrellitas Doradas 16](#_Toc124436906)
+[Golden Stars 16](#_Toc124436906)
 
-[Utilizando Estrellitas Doradas 16](#_Toc124436907)
+[Using Golden Stars 16](#_Toc124436907)
 
-[Obteniendo Estrellitas Doradas 17](#_Toc124436908)
+[Obtaining Golden Stars 17](#_Toc124436908)
 
-[Combate 17](#_Toc124436909)
+[Combat 17](#_Toc124436909)
 
-[Perfecto, ¿cómo le pego a alguien? 17](#_Toc124436910)
+[Perfect. How do I hit someone? 17](#_Toc124436910)
 
-[Iniciativa 17](#_Toc124436911)
+[Initiative 17](#_Toc124436911)
 
-[Emboscadas, Gente Escondida y Acciones Violentas Inesperadas 17](#_Toc124436912)
+[Ambushes, Hidden People & Sudden Violence 17](#_Toc124436912)
 
-[Acciones 17](#_Toc124436913)
+[Actions 17](#_Toc124436913)
 
-[Iniciando el combate cuerpo a cuerpo 18](#_Toc124436914)
+[Melee Start 18](#_Toc124436914)
 
-[Ataque 18](#_Toc124436915)
+[Attack 18](#_Toc124436915)
 
-[Daño Adicional 18](#_Toc124436916)
+[Additional Damage 18](#_Toc124436916)
 
-[Ataque a Distancia 19](#_Toc124436917)
+[Ranged Attack 19](#_Toc124436917)
 
-[Acciones Opuestas y Maniobras de Combate 19](#_Toc124436918)
+[Opposed Actions & Combat Maneuvers 19](#_Toc124436918)
 
-[Fallos Críticos 19](#_Toc124436919)
+[Critical Fails 19](#_Toc124436919)
 
-[Peleando de a Varios 20](#_Toc124436920)
+[Fighting in a Group 20](#_Toc124436920)
 
-[Huir 20](#_Toc124436921)
+[Running 20](#_Toc124436921)
 
-[Ir Ganando 20](#_Toc124436922)
+[Winning Rounds 20](#_Toc124436922)
 
-[Armas de Ejemplo - INCOMPLETO 20](#_Toc124436923)
+[Example Weapons - INCOMPLETO 20](#_Toc124436923)
 
-[Comprando Cosas 20](#_Toc124436924)
+[Buying Things 20](#_Toc124436924)
 
-[¿Me alcanza la plata para comprar esto? 21](#_Toc124436925)
+[Do I have enough cash? 21](#_Toc124436925)
 
-[¿Cuánto me empobrecí en el proceso? 21](#_Toc124436926)
+[Growing Poorer 21](#_Toc124436926)
 
-[Pero… ¿cuánto salen las cosas? 21](#_Toc124436927)
+[How much do things cost? 21](#_Toc124436927)
 
 [Stress 21](#_Toc124436928)
 
-[Tipos de Trauma 21](#_Toc124436929)
+[Trauma Types 21](#_Toc124436929)
 
-[Procedimiento 22](#_Toc124436930)
+[Procedure 22](#_Toc124436930)
 
-[Resistencia 23](#_Toc124436931)
+[Resistence 23](#_Toc124436931)
 
-[Abrumamiento 23](#_Toc124436932)
+[Overwhelming 23](#_Toc124436932)
 
-[Estar Dañado 24](#_Toc124436933)
+[Being Damaged 24](#_Toc124436933)
 
-[Progresando - INCOMPLETE 24](#_Toc124436934)
+[Progressing - INCOMPLETE 24](#_Toc124436934)
 
-[Habilidades como Motor de Progreso 24](#_Toc124436935)
+[Skills as Growth Focus 24](#_Toc124436935)
 
-[Puntos de Progreso 24](#_Toc124436936)
+[Progress Points 24](#_Toc124436936)
 
-[Adaptaciones - ¿Qué quieres saber hacer? 24](#_Toc124436937)
+[Adaptations - What do you wish to know how to do? 24](#_Toc124436937)
 
-[Dirigiendo - INCOMPLETE 24](#_Toc124436938)
+[DMing - INCOMPLETE 24](#_Toc124436938)
 
 # Introduction
 
@@ -230,84 +230,83 @@ Las adaptaciones nos permiten hacer cosas con seguridad y éxito en caso de disp
 
 ## Stress
 
-A medida que vamos acumulando experiencias, es probable que nos encontremos con experiencias negativas. Experiencias que nos ponen a prueba y nos generan algún tipo de stress, y nos vayan cambiando progresivamente.
+As we accumulate experiences, so too is it likely that we will be met with negative experiences. Experiences that test us and generate some sort of stress, changing us progressively.
 
-Los tipos de stress se clasifican de la misma manera que los Mantras principales, representando el daño o endurecimiento recibido sobre los conceptos fundamentales de nuestro ser.
+Stress types are classified in the same way as the main mantras, representing the damage and strengthening received over our core fundamental concepts of our being.
 
-Los tipos de Stress se identifican de la siguiente manera:
+The stress types are identified in this form:
 
-- **Mente -** Inexplicable: Ocultar – Observar
-- **Emoción -** Asilamiento: Persecución – Estatus
-- **Habilidad -** Impotencia: Precaución – Actividad
-- **Músculos -** Violencia: Violencia – Empatía
-- **Yo -** Yo: No Verdad – Verdad
+**Mind** - Inexplicable: Hiding - Observing.
+**Emotion** - Isolation: Persecution - Status.
+**Skill ** - Disempowerment: Precaution - Activity.
+**Muscles** - Violence: Violence - Empathy.
+**Myself** - Myself: Untruth - Truth.
 
-En el momento en que se experimenta un desafío de esta índole, éste puede tener 2 resultados posibles: resistirlo, aceptarlo, aguantarlo o no tolerar la situación y quebrarse ante ella.
+Each moment there’s a challenge of each type, there are two possible results: resisting/acceptance/endurance or becoming overwhelmed and shattering before the situation.
 
-En caso de aguantarlo, la persona se irá endureciendo, lo cual afectará negativamente su posibilidad de desarrollar ciertas conductas de manera normal y positivamente a otras.
+If it is resisted, the person shall gradually harden toward such challenges, which will negatively affect the possibility of developing certain conducts in normal ways and it will positively affect the development of other conducts.
 
-En caso de no resistirlo, la persona tendrá alguna clase de reacción emocional en el momento, (pánico, shock, huir, violencia, etc) y su predisposición emocional a experimentar nuevas situaciones así, será menor.
+In case of not being resisted, the person shall become overwhelmed by some emotional reaction on the spot [Panic/Shock/Fleeing/Violence] and their emotional predisposition to experiencing similar situations shall become lesser.
 
-En caso de estar endurecido, las situaciones de menor intensidad a lo que uno ya está preparado, no deberán resolverse. La persona ya ha visto situaciones mucho peores por lo que esto no se vuelve una situación significativa para la persona.
+Once hardened, lesser-intensity situations than those one is prepared for shan’t have to be resolved. The person has seen much worse, therefore it does not grow of significance in the same way it was at first.
 
-## Crecimiento
 
-El progreso en el juego está definido íntegramente por sus actos. El sistema carece de niveles o clases. Uno sólo puede mejorar las habilidades que ha utilizado. Al mejorar estas habilidades, se pueden obtener Puntos de Progreso del color de la habilidad progresada. Con los Puntos de Progreso se pueden comprar Adaptaciones del mismo color e irse mejorando y especializando en actividades relacionadas con sus actos.
+## Growth
 
-En pocas palabras, para mejorar en algo, hay que hacer mucho ese algo.
+The progress in the game is defined integrally by its acts. The system is bereft of levels nor classes - one can only improve in the skills they’ve used. When such skills are improved, one obtains Progress Points of the color of the skill used. 
 
-## Riqueza
+With these Progress Points, Adaptations might be purchased of the same color and steadily improve and specializing in skills tied with your acts. 
 
-La riqueza la concebimos de una manera fluida, con un concepto que identifica más nuestro poder adquisitivo, que cuántas monedas de oro tenemos.
+In other words, to grow better at something, much of it must be done.
 
-Tenemos un valor que permitirá que ciertas cosas las podamos acceder casi sin costo, y otras que a veces podremos acceder a ellas y a veces no.
 
-Algunas cosas nos afectarán económicamente a futuro, reduciendo nuestra capacidad crediticia, otras serán insignificantes.
+## Wealth
 
-## PCP - ¿Por Cuánto Pasaste?
+Wealth is conceived in a fluid manner, in a concept that identifies more with the power to acquire something than with the gold coins we have. 
 
-PCP es la tirada básica que define si una actividad, que presenta un desafío para nosotros, la podremos o no superar.
+The wealth system will define which things might be bought without hardly costing anything to us, whereas others we might sometimes have access to them and sometimes not. Some shall affect one’s status economically, reducing the credit capability to acquire goods, whereas others shall be insignificant.
 
-A medida que acumulamos rangos en una actividad, la misma se vuelve más sencilla, y por ende aumentamos nuestra probabilidad de poder realizar la misma.
 
-Las tareas para las que tenemos adaptaciones y no se encuentran en situación de riesgo o dificultad excepcional, no requieren que de tiradas PCP, dado que esto no representa un desafío para nosotros.
+## BHM - ¿By How Much?
 
-Siempre que queramos hacer una acción contrapuesta con otra persona, donde tengamos deseos o voluntades antagonistas, deberemos realizar una tirada de PCP opuesta.
+BHM is the basic roll that defines if an activity, which poses a challenge, shall be overcome or not.
 
-En función a por cuanto excedamos o por cuanto fallemos, se puede considerar niveles de éxito o fracaso.
+As we acquire ranks within it, it becomes simpler, and therefore we increase the ability of performing such a skill when challenged. 
 
-En líneas generales, toda actividad que presente una dificultad y la cual fallarla implique consecuencias, deberá ser tirada.
+Tasks for which one is trained and aren’t performed in a situation of risk nor difficulty do not require BHM rolls, as they don’t pose a challenge to us. However, each time we wish to do something opposed to someone else, where our desires or wills are antagonic one to the other, we shall require opposed BHM rolls.
 
-80-(Ranks + Mantra)=Base PCP
+In function of how much we exceed or fail them, there are levels of success or failure. In general lines, one should roll for each activity that poses a challenge and which failing them would pose narrative consequences. 
 
-## TS – Tiradas de Salvación
+The base BHM = 80 - (Ranks + Mantra).
 
-Cuando nos encontramos ante situaciones excepcionales de resistencia básica. Deberemos realizar tiradas de Mantras puros.
 
-Estos son para acciones que solo están basadas en acciones no practicables e intensas.
+## ST – Saving Throws
 
-Estas se clasifican de la siguiente manera:
+When we find ourselves challenged by exceptional situations of basic resistances, we must realize pure Mantra rolls. These only for actions in an intense situation which cannot be practiced.
 
-- Mente: Desafíos intelectuales, Resistencia Mental.
-- Emoción: Desafíos de Intuición o Fuerza de Voluntad.
-- Habilidad: Desafíos de destreza, reflejos o motricidad fina.
-- Músculos: Desafíos de fuerza y resistencia física.
+They are classified in the following manner
+- Mind: Challenges of Intellect and Mental Resistance.
+- Emotion: Challenges of Intuition and Willpower.
+- Skill: Challenges of Dexterity, Reflexes or Fine Motor skills.
+- Muscles: Challenges of Strength and Physical Resistance.
 
-Éstos se resolverán con una tirada de PCP pero con un cálculo sin rangos basado en el nivel de Mantra.
+These shall be resolved with an BHM roll based only on mantra (therefore without incorporating ranks).
 
-## Estado Fisico
+
+## Physical State
 
 #
 
-# Creación de Personaje
+# Character Creation
 
-Una vez presentados al jugador los conceptos generales del setting que van a jugar, el jugador debe buscar un concepto de personaje que le interese y en base a eso, definir cual será el mantra del jugador (Mente, Emoción, Habilidad o Músculos).
+Once the general concepts of the setting have been presented, the player must find a character concept that interests them and, based on it, define which shall be the character’s mantra (Mind / Emotion / Skill / Muscles).
 
-En base a eso se recomienda hacer la creación de personaje una vez iniciada la partida, en un formato de entrevista u otro tipo de prueba.
+It’s recommended doing the character creation on such a basis once the session has started, creating the character in the format of an interview or some other challenge. 
 
-A medida que se van completando los pasos de la entrevista, se van llenando los distintos campos de la planilla.
+As the steps are completed, different fields on the sheet are filled.
 
-## Pasos de Entrevista
+
+## Interview Steps
 
 1. Preguntar Nombre, Edad y Género
 2. Preguntarle a la persona “¿Qué quería ser cuando grande?”
