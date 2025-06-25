@@ -42,7 +42,7 @@ Contents
 
 [Initial Stress 10](#_Toc124436890)
 
-[Skills & Innate Talent 10](#_Toc124436891)
+[Skills & Innate Talents 10](#_Toc124436891)
 
 [Passions Tarot 11](#_Toc124436892)
 
@@ -50,7 +50,7 @@ Contents
 
 [Wealth 11](#_Toc124436894)
 
-[What do you seek for your legacy? 11](#_Toc124436895)
+[How do you wish to be remembered? 11](#_Toc124436895)
 
 [Main Skills 11](#_Toc124436896)
 
@@ -58,9 +58,9 @@ Contents
 
 [Calculate Mantras & Additional Values 12](#_Toc124436898)
 
-[Ajustes Opcionales y Setting 12](#_Toc124436899)
+[Optional & Setting Adjustments 12](#_Toc124436899)
 
-[Golden Stars 13](#_Toc124436900)
+[Golden Star 13](#_Toc124436900)
 
 [Playing 14](#_Toc124436901)
 
@@ -240,7 +240,7 @@ The stress types are identified in this form:
 **Emotion** - Isolation: Persecution - Status.
 **Skill ** - Disempowerment: Precaution - Activity.
 **Muscles** - Violence: Violence - Empathy.
-**Myself** - Myself: Untruth - Truth.
+**Self** - Self: Untruth - Truth.
 
 Each moment there’s a challenge of each type, there are two possible results: resisting/acceptance/endurance or becoming overwhelmed and shattering before the situation.
 
@@ -308,215 +308,211 @@ As the steps are completed, different fields on the sheet are filled.
 
 ## Interview Steps
 
-1. Preguntar Nombre, Edad y Género
-2. Preguntarle a la persona “¿Qué quería ser cuando grande?”
-3. Preguntarle a la persona “¿Cuál es el mantra que guía su vida?”
-4. Tirar Tarot de Oficio
-5. Anotar Deber Pendiente (Compulsión)
-6. Anotar Stress Inicial
-7. Tirar Habilidades y Talentos Innatos
-8. Tirar Tarot de Pasiones
-9. Tirar Riqueza
-10. Preguntarle a la persona “¿Como quiere ser recordado?, o, si su vida fuese una novela, ¿Cuál sería la última frase de ese libro?”
-11. Elegir 4 Habilidades Principales
-12. Comprar Talentos Extra
-13. Calcular Mantras y Valores Adicionales
-14. Ajustes Opcionales y de Setting
-15. Entregar Estrellita Dorada
+1. Ask Name, Age, Gender
+2. Ask the person “What did you want to be when old?”
+3. Ask the person “What is your guiding mantra?”
+4. Roll Profession Tarot
+5. Write down Pending Duty (Compulsion)
+6. Write down Initial Stress
+7. Roll Skills & Innate Talents
+8. Roll Passions Tarot
+9. Roll Wealth
+10. Ask the person “How do you wish to be remembered? Or, if your life were a novel, what would be the book's last phrase?”
+11. Choose 4 main skills
+12. Buy extra talents
+13. Calculate Mantras & Additional Values
+14. Setting & Optional Adjustments
+15. Give a golden star
 
-### Nombre, Edad y Genero
+### Name, Age, Gender
 
-Se define la identidad general del personaje.
+The character’s general identity is defined.
 
-### ¿Qué Quería ser Cuando Grande?
+### What did you want to be when old?
 
-El jugador establece su intención de personaje, lo que él cree que el personaje es o lo que él quiere que llegue a ser. Por ejemplo, “quería ser un Soldado”, o “quería una estrella de TV”.
+The player establishes their intent for the character, what they believe the character to be or what is intended for the character to become.
 
-### ¿Cuál es el Mantra que Guía su Vida?
+### What is your guiding mantra?
 
-Se le pregunta al jugador cual es la forma en que su personaje tiende a resolver los problemas, por medio de la Mente, la Emoción, la Habilidad o los Músculos.
+The player is asked in which form does the character tend to resolve their conflicts: Mind, Emotion, Skill or Muscles.
 
-Esta selección definirá la familia de oficios de la cual se le asignará uno en el siguiente paso.
+This selection will define the profession tree in which one shall be assigned in the next step.
 
-### Tarot de Oficio
+### Profession Tarot
 
-Es este punto el jugador establece lo que realmente estuvo haciendo previamente en su vida, al fin y al cabo, uno no siempre es lo que quería ser.
+At this stage the player defines what the character has been actually doing in their life. After all, one isn’t always what they wished to become.
 
-Se establece un oficio, este puede ser lo que se dedica actualmente o algo que realizaba previamente, pero implica una colección de conocimientos que, de una manera u otra, el personaje sabe.
+A profession is established, which can be either what they are doing currently or something they did in the past, but it implies a collection of knowledges that, one manner or another, the character knows.
 
-Para esto el usuario debe tomar 3 cartas de los Arcanos Mayores del mazo de tarot, colocarlas en la mesa boca arriba y elegir una carta.
+For which, the player must draw three cards from the Tarot’s Major Arcana, positioning them face-up, and draw a card.
 
-En base a la carta elegida, consultar la tabla correspondiente al Mantra elegido en el paso anterior. Este indicará el Oficio de la persona, su Deber Pendiente (Compulsión), Riqueza, Stress, Habilidades y Talentos Iniciales.
+Afterwards, one must consult the mantra’s corresponding table which shall display which profession, pending duty (compulsion), wealth, stress, skills and talents they shall start with.
 
-Las tablas de Mantras y Talentos están definidas en base a cada setting de Campaña.
+The tables corresponding mantras and talents are defined per campaign setting.
 
-### Deber Pendiente o Compulsión
+### Pending Duty or Compulsion
 
-El Deber Pendiente o Compulsión, es una actividad que se define como importante o heroica para el personaje. Consiste en una conducta aspiracional positiva (a menos que el setting defina lo contrario) basada en los valores del oficio o en las culpas que este oficio le puede llegar a generar.
+The Pending Duty or Compulsion is an activity which is defined as important or heroic for the character. It consists in a positive aspirational conduct - unless the setting defines otherwise - based on the values of the profession and the regrets it might generate upon one.
 
-Al cumplir las Compulsiones o Deberes Pendientes, los personajes obtienen una Estrellita Dorada. La discrecionalidad de si la conducta califica como digna de una Estrellita Dorada, será definida por el Master. Solo se puede recibir una Estrellita Dorada, por cumplir su Deber Pendiente o Compulsión, una vez por Sesión.
+When Compulsions or Pending Duties are accomplished, the characters shall be granted a golden star. Discretionality whether or not a deed qualifies for this is defined by the master, but only one golden star by accomplishing a Pending Duty or Compulsion can be bestowed per session.
 
-Por ejemplo, una persona con oficio de Guardabosques puede recibir una Estrellita Dorada cuando pone por delante el bienestar de la naturaleza ante todas las cosas. Un Estafador, puede recibir una Estrellita Dorada cada vez que perpetra un engaño por una causa justa. Un Capitán Militar, puede recibir una Estrellita Dorada, cuando luego de un combate, ninguno de sus hombres se queda atrás.
+For example, a person with the profession of Ranger might receive a golden star when they prioritize nature’s wellbeing above all other things. A Swindler might receive a golden star each time they lie for a just cause. A Military Captain might receive a golden star when, after a combat, none of their men is left behind.
 
-### Stress Inicial
+### Initial Stress
 
-Cada Oficio puede incluir un nivel de Stress Inicial, relacionado con su conocimiento. Si la persona tiene un Oficio como Matón, es probable que ya haya estado en más de una situación violenta, y puede tener 3 puntos en Violencia ya marcados. Un Astronauta, puede ser que tenga una tolerancia mayor a la soledad, y tenga un par de puntos en Aislamiento.
+Each Profession might include a level of Initial Stress related to its knowledge. If a person has the profession of Ruffian, it’s more likely they’ve been in more than a violent situation, and might have three points in Violence already written down. An Astronaut might have a greater tolerance to solitude, and thus might have a couple points in Isolation.
 
-### Habilidades y Talentos Innatos
+### Skills & Innate Talents
 
-Cada Oficio tiene un set de Talentos posibles de conocer. Cada rama de Talentos viene asociada con una Habilidad y esa Habilidad inicia con 5 Rangos.
+Each profession has a set of Talents it is possible to know. Each branch of Talents is associated with a Skill, and that Skill starts with five ranks.
 
-Cada Talento normalmente va a tener una lista de progreso posible expresado de la siguiente manera:
+Each Talent will normally have a list of possible progress within it expressed in the following manner:
 
-Lingüística (100) -> Idioma Extranjero (60) -> Lengua Muerta (20) – Habilidad: Lingüística, Mantra: Mente
+Linguistics (100) -> Foreign Language (60) -> Dead Tongue (20) - Skill: Linguistics, Mantra: Mind.
 
-El jugador deberá realizar una tirada d100, dependiendo del resultado, será hasta qué punto de la rama habrá avanzado. Si saca un 70, solo sabrá Lingüística, si saca 40, sabrá Lingüística e Idioma Extranjero, si saca 10, sabrá Lingüística, Idioma Extranjero y Lengua Muerta.
+The player will have to realize a d100 roll, depending on the result, that shall be to which point they’ve advanced within it. If it’s only 70, then they only know Linguistics, if it’s 40, they know Linguistics and Foreign Language, if it’s 10, it’ll be Linguistics, Foreign Language and Dead Tongue. 
 
-El jugador en Habilidades anotará Lingüística, pintará el cuadrado de Mantra con el color correspondiente y le pondrá 5 rangos.
+The player, in skills, shall write down Linguistics, drawing the Mantra square with the corresponding color, and add five ranks in it. Afterwards, filling each corresponding cell for the level in Talents from 1 to 4.
 
-En Talentos, en una fila nueva, ingresará cada nivel en la celda correspondiente de 1 a 4.
 
-### Tarot de Pasiones
+### Passions Tarot
 
-El jugador deberá tomar el mazo de Arcanos Menores del Tarot y sacar 3 cartas boca arriba una por una. Por cada carta que saque, el Master deberá hacer una lectura de las cartas, hacer una interpretación para el personaje y así definir juntos sus expectativas futuras o temas pasados.
+The player shall have to draw three cards from the Tarot’s Minor Arcana and position them face-up. For each one they draw, the Master shall have to deliver a reading of the cards, interpreting them for the character, and therefore define together future expectations and threads from the past.
 
-Pueden ser cosas como Sed de Venganza, Deseo, Frustración, Culpa, etc. En cualquier caso, el jugador deberá definir el objeto de la Pasión, es decir, si tiene Sed de Venganza, establecer quién es el destinatario de esa venganza y los motivos. En caso de tener un Deseo, definir cuál es su deseo.
+The result might be things such as Thirst for Vengeance, Frustration, Guilt, etc. In any case, it shall be the player defining the object of their Passion, e.g. If they have Thirst for Vengeance, establish who is the one they wish to claim vengeance against and why. In case of having a Wish, define the wish.
 
-Estas Pasiones, no tienen un rol mecánico en el juego, sino más bien son accesorios para darle más profundidad al personaje y facilitar la toma de decisiones del personaje.
+These Passions, while they don’t have a mechanic role in the game, give depth to the character and facilitate taking choices from their perspective.
 
-### \*\*\*Mancias y Talentos
 
-### Riqueza
+### ***Mancies & Talents
 
-Luego se debe definir el nivel de poder adquisitivo del personaje. Para esto se debe tirar 1d4 + la riqueza definida por el Oficio.
+### Wealth
 
-Por ejemplo, un sacerdote tiene un Bonificador de Riqueza de 1d2, entonces deberá tirar 1d4 + 1d2 y marcar el resultado de la tirada en los Puntos de Riqueza de la Planilla.
+Afterwards shall be defined the character’s purchasing power. This is a 1d4 roll + Wealth defined by the profession. 
 
-### ¿Cómo Quiere ser Recordado?
+For example, a Priest has a Wealth modifier of 1d2, therefore they shall have to roll 1d4 + 1d2 and write down the result of the roll on the Wealth Points in the Character Sheet.
 
-Se le preguntará al personaje, como quiere ser recordado. O si su vida fuese una novela, cuál sería la última frase de ese libro.
 
-Esto tampoco tiene valor mecánico, pero el Master debe tomar nota del mismo, para evaluar poder poner situaciones relacionadas con el mismo en la campaña. Ponerle puntos de decisión que puedan ayudar al personaje a acercarse a esas metas o en cambio ver si las rechaza, en búsqueda de otras motivaciones.
+### How do you wish to be remembered?
 
-### Habilidades Principales
+The character shall be asked how they wish to be remembered or, if it were a novel, what would be the book’s last phrase.
 
-El jugador deberá elegir 4 habilidades que el personaje sabe hacer excepcionalmente bien y a éstas sumarle 10 rangos. Éstas pueden ser habilidades ya obtenidas por los Talentos Iniciales o nuevas.
+This does not hold mechanical value, but the Master must take note of this for putting the character closer to situations related to this within the campaign. This is putting the character in choice points that might help them grow closer to these goals or, if the goals are rejected, to search for new motivations.
 
-En caso de definir nuevas, debe consensuar con el Master acerca del color de Mantra de esa habilidad.
 
-En caso de elegir una habilidad ya obtenida por Talento Inicial, el jugador alcanzará los 15 rangos, en caso de ser una nueva, alcanzará los 10 rangos totales.
+### Main Skills
 
-Por ejemplo, un personaje puede tener de oficio ser un sacerdote, pero el en realidad siempre quiso ser Fotoperiodista y aunque no se dedique a eso, siempre lo mantuvo como Hobby. También puede ser el caso, de que en su juventud recibió educación religiosa y se desempeñó como monaguillo, pero hoy en día abandonó la fé y se dedica al Periodismo.
+The player shall be asked to choose 4 skills that the character does exceptionally well and add 10 ranks to them. These can be skills obtained through the Innate Talents or new ones.
 
-En cualquiera de los casos sería lógico que el personaje aparte de saber los conocimientos relacionados con la fé, como pueden ser Preceptos Religiosos, Historia, Oratoria y Lingüística, sepa de asuntos como Fotografía y Redacción.
+If they’re new, it must be spoken to the Master regarding the Mantra color of that skill. - POSSIBLY OUTDATED
 
-### Talentos Extra
+In case it’s a skill already obtained by an Innate Talent, the character shall reach 15 ranks, if it’s a new one, it shall be 10 ranks.
 
-El usuario tendrá 3 puntos de Talento para comprar Talentos Extra.
+For example, a character might be, by profession, a Priest, however they actually always wished to be a Photographer and while they aren’t dedicated to that, it always was a Hobby. It can also be the case that in their youth a character had religious education and was an altar boy in their youth, however the faith was abandoned and now they’re dedicated to Periodism.
 
-Estos los podrá gastar en comprar 3 Talentos nivel 1, 1 Nivel 1 y 1 Nivel 2 o 1 Nivel 3. Para comprar Talentos se debe poseer un Talento que lo Preceda, y si compra un Talento Nivel 1, se agregará esa habilidad a la lista de Habilidades, igual que con los Talentos Innatos.
+In either of those cases, it would be logical that alongside matters related to faith (History, Oratory, Linguistics, Religious Precepts), there’s also skills such as Photography and Writing.
 
-### Calcular Mantras y Valores Adicionales
 
-En este sistema los Stats están definidor por los saberes y no a la inversa. Por ende, las Habilidades definen nuestra identidad.
+### Extra Talents
 
-Por cada habilidad que cuente con más de 10 rangos, se anotará un 1 en Mantra Extra. Luego se sumarán los Mantras Extra por color, y se anotarán en el dial de Mantras.
+The player shall have 3 Talent points to buy Extra Talents.
 
-El resultado de cada Mantra se anotará en cada habilidad en el área de Mantra y modificará el resultado final.
+They shall be able to purchase 3 Level 1 Talents , 1 Level 1 Talent and 1 Level 2 Talent, or 1 Level 3 Talent. To purchase Talents, one must have a preceding Talent, and if a Level 1 Talent is bought, a skill shall be added to the list of Skills similar to the Innate Talents.
 
-Una vez calculados los Mantras, se calculará el valor del Yo, la Resistencia, la Vitalidad y la Vida.
 
-El Yo se calcula por medio de promediar los 4 Mantras, inicialmente siempre debería valer 1.
+### Calculate Mantras & Additional Values
 
-La Resistencia se calcula por medio de promediar Músculos y Evasión y sumarle 1
+In this system the Stats are defined around the knowledge a character possesses and not to the inverse. Therefore, Skills define the character’s identity.
 
-Resistencia = Promedio(Musculos; Evasión) + 1.
+For each Skill that counts with more than 10 ranks, there shall be a 1 written down in Extra Mantra. Afterwards, all Extra Mantas shall be added up per color and written down in the Mantra dial. The result of each Mantra shall be written in the Mantra Area and will modify the final result.
 
-La Vitalidad se calcula por medio de sumar Yo + 4.
+Once calculated the Mantras, the Self, Resistance, Vitality and Life shall each be calculated.
 
-Vitalidad = Yo + 4
+The Self is an average of the 4 mantras, initially it should always be 1.
+Resistance is calculated averaging Muscles and Evasion, then adding 1.
+Vitality is Calculated averaging Self + 4
+Life is 2
 
-La Vida total es de 2.
+[Formulas: 
+Self = Average (Mantras). 
+Resistance =  Average (Muscles + Evasion) + 1.
+Vitality = Self + 4
+Life = 2]
 
-Vida = 2
+These values can be changed if the player has bought a Talent that modifies these formulas.
 
-Los valores pueden cambiar si el jugador ha comprado algún talento que modifique estas fórmulas.
 
-### Ajustes Opcionales y Setting
+### Optional & Setting Adjustments
 
-El jugador puede querer optar por hacer pequeños ajustes en el personaje, deberá debatirlos con el Master. El caso más común, puede ser que el personaje esté más dañado mentalmente de lo predefinido, en tal caso pueden ajustar los niveles de Stress a como lo crean conveniente.
+The player might wish to make small adjustments for the character which they must talk with the Master. In the most common case, it might be that the character comes with a heavier past than predefined, in which case Stress levels might be modified accordingly.
 
-Por otro lado, pueden haber tiradas generales relativas al setting, por ejemplo: Probabilidad de Tener Registro de Conducir.
+Additionally, there might be setting-specific rolls (such as Probability of Having A Driver’s Licence)
 
-### Estrellita Dorada
 
-Luego de tanto esfuerzo, el jugador se merece un premio por haber llegado hasta acá. Por lo que el master deberá otorgarle el bien más valioso existente en el mundo: una ESTRELLITA DORADA!
+### Golden Star
 
-Felicitaciones, el personaje está listo para seguir con la historia.
+After so much hard work, the player deserves a reward for getting here! For which the master must grant them the most valuable good in the entire universe: A GOLDEN STAR!
 
-# Jugando
+Congratulations, the character is ready to continue the story.
 
-## Desafíos
+# Playing
 
-A lo largo de la campaña los personajes se encontrarán con desafíos que deberán superar. Los desafíos simples se resolverán narrativamente, los desafíos más difíciles deberán ser requerir de una acción de jugador para resolverlos.
+## Challenges
 
-### ¿Por cuanto pasaste?
+Throughout the campaign the players shall encounter challenges which must be overcome. Simple challenges shall be resolved narratively, whereas more difficult challenges shall require player action to resolve.
 
-En BYGR el éxito de las acciones se definen con una tirada d100. A diferencia de otros sistemas d100, las actividades tienen niveles de dificultad y éxito definidos por el Master. La dificultad de las tareas se establece con la siguiente tabla:
+### By How Much?
+
+In BYGR the success of actions are defined in a d100 roll. However, the activities have degrees of difficulty and success defined by the Master. The challenge of such tasks are established with the following table:
 
 | Dificultad | Valor de la Tirada |
 | --- | --- |
-| Obvia | \-80 |
-| Muy Fácil | \-50 |
-| Fácil | \-30 |
-| Difícil | 0   |
-| Muy Difícil | 10  |
+| Obvious | \-80 |
+| Very Easy | \-50 |
+| Easy | \-30 |
+| Difficult | 0   |
+| Very Difficult | 10  |
 | Formidable | 20  |
-| Heroica | 40  |
-| Casi Imposible | 70  |
+| Heroic | 40  |
+| Near-Impossible | 70  |
 
-Las acciones con dificultad menor a 0, no deberían requerir tirarse, dado que no tienen valor narrativo, a menos que el Master lo considere necesario.
+Actions with difficulty lesser than 0 shouldn’t be rolled, as they have no narrative value, unless the Master deems it needed.
 
-Teniendo estas dificultades definidas, una vez presentado el desafío al jugador, el jugador hará una tirada d100. Luego el Master le preguntará, “¿por cuánto pasaste?”, es decir, “¿cuánto mejor que la base de tu tirada lo hiciste?”. El jugador calculará su tirada base, y le restará el resultado del dado.
+With these difficulties defined, once presented the challenge to the player, the player shall roll a d100. Then, the Master shall by how much did they succeed, where they’ll calculate the base and reduce the result of the d100
 
-Por ejemplo:
+Example:
 
-Master: Llegan al final del pasillo, pero la puerta se encuentra cerrada y hay un guardia cuidándola.  
-Fede: Me acerco al guardia y le aviso que su madre siendo comida por un Chupalobos del otro lado de la puerta  
-\*El Master considera que esa tarea es de dificultad Formidable, porque en éste momento la mamá del guardia está en una escapada de fin de semana en Chascomus\*  
-Master: Tirá Charlatanería d100  
-\*Fede tira un d100 y saca un 12. Fede tiene 35 en Charlatanería\*  
-Master: ¿Por cuánto pasaste?  
-\*Fede rápidamente calcula 35-12=23\*  
-Fede: Por 23, papá!  
-Master: Wow! Tu mentira es increíblemente convincente, el guardia está consternado por su madre y se pregunta cómo volvió tán rápido a la ciudad. Fede, ya que estamos, roleame un poquito cómo fue que le dijiste…  
-\*Secuencia hilarante de Fede con el Guardia gritando por el bienestar de la madre\*
+Master: You reach the end of the corridor, however the door is locked and there is a guard guarding it.
+Fede: I approach the guard and tell them that their mother is being eaten by a Chupalobos on the other side of the door.
+\*The Master considers this to be a challenge of Formidable difficulty, as the Guard’s mom is right now having a most lovely weekend vacation.\*
+Master: Roll Bluff d100
+\*Fede rolls a d100 and gets a 12. Fede has 35 in Bluff \*
+Master: “By how much did you pass?”
+\*Fede quickly calculates 35-12=23*\
+Fede: By 23!
+Master: Wow! Your lie is so convincing that the man is worried for his mother and wonders how she returned so fast to the city. Fede, while we’re at it, PLEASE tell me a bit how was it that you told him…
+\*Cut the camera to Fede with the Guard screaming for her mother’s wellbeing\*
 
-#### ¿Y si quiero usar una Estrellita Dorada?
+#### What if I want to use a Golden Star?
 
-La otra opción para pasar una tirada es usar una Estrellita Dorada. Las Estrellitas Doradas se utilizan para realizar acciones, en situaciones de peligro y para las cuales el personaje tiene el Talento necesario.
+The other option to succeed in a roll is to use a Golden Star. They’re used to accomplish actions in situations of danger for which the character has the necessary talent. In this case, it shan’t require any roll and it will be an automatic success.
 
-Al utilizar una Estrellita Dorada en este caso, no se requerirá ninguna tirada y se considerará un éxito automático.
+It’s recommended to require a narrative description of this particularly-heroic action.
 
-Se recomienda requerir una descripción narrativa de esta acción particularmente heroica.
+One can’t use Golden Stars to succeed in challenges whose difficulty to succeed is impossible with a d100.
 
-No se podrán utilizar Estrellitas Doradas para superar desafíos cuya dificultad es imposible de superar con una tirada d100 del personaje.
+Additionally, Combat Talents particularly require no Golden Stars to be used and never guarantee an automatic success. Unlike others, they simply provide combat modifiers to realize diverse actions.
 
-Los Talentos de Combate no requieren Estrellitas Doradas para ser utilizados y nunca garantizan un éxito automático. Éstos a diferencia de los otros, proveen bonificadores en combate para realizar diversas acciones.
+### What if I'm in an unchallenging situation?
 
-### ¿Y si no estoy en peligro y no tengo apuro?
+When one wants to do a challenging task but there’s plenty of time, no dangers, and a rather comfy environment to realize the task, one can guarantee the roll’s success - as long as they’ve got the corresponding talent. It does, however, entail a compromise that it will take time to guarantee the success.
 
-Cuando uno requiere hacer una tarea difícil, pero tengo mucho tiempo y no hay nada tratando de matarme o estresándome y tengo un ambiente cómodo para realizar la tarea, se puede garantizar el resultado de la tirada.
+However, if the character doesn’t have a corresponding talent, a d100 must be rolled applying the previously mentioned rules. There is one exception, which is using a Golden Star to guarantee success without a corresponding talent. This is at the Master’s criteria whether to allow it or not, but it is generally possible.
 
-Siempre y cuando tengamos el Talento correspondiente, el personaje puede declarar que consume una considerable cantidad de tiempo en realizar esta tarea y no fallar en la misma.
+Alternatively, if there is the talent but it is of a higher (unbought) level, it might be possible as long as it is within reach of a d100 roll.
 
-Si no tenemos el Talento correspondiente, se puede intentar realizar la tarea tirando un d100 o, aplicando las reglas previamente mencionadas.
 
-Si se quiere realizar una tarea para la cual no tenemos el Talento, no estamos en peligro y queremos pasarla si o si, podemos proponer utilizar una Estrellita Dorada, pero queda a criterio del Master definir si se podrá realizar o no. En líneas generales, con una Estrellita Dorada y tiempo y falta de peligro, se podrá realizar una tarea sin Talento, siempre y cuando sea una tarea de nivel de Talento 1 o de un nivel mayor, pero tengamos el talento precedente ya obtenido.
-
-No se podrán utilizar Estrellitas Doradas para superar desafíos cuya dificultad es imposible de superar con una tirada d100 del personaje.
-
-### Quiero ayudar a mi amigo en su dificultad
+### Helping Others in Rolls 
 
 Cuando un compañero se encuentra frente a un desafío otro compañero que se encuentre físicamente disponible y posible para ayudarlo, puede aportar su ayuda. Solo podrán ayudar personajes que tengan Rangos en la habilidad realizada.
 
@@ -553,11 +549,11 @@ Ale: 22
 
 Felicitaciones, ningún integrante de la party ha sido reducido a puré.
 
-## Estrellitas Doradas
+## Golden Stars
 
 La Estrellitas Doradas son el bien más valioso de un jugador. Pueden cambiar el resultado de los momentos más críticos de la partida. Son un recurso limitado que posee cada jugador y hay diversas formas de consumirlas y obtenerlas.
 
-### Utilizando Estrellitas Doradas
+### Using Golden Stars
 
 Las Estrellitas Doradas se pueden utilizar para:
 
@@ -568,7 +564,7 @@ Las Estrellitas Doradas se pueden utilizar para:
 - Interponerse frente a un ataque que causará grave a un amigo y recibir el golpe por él, siempre y cuando estemos a una distancia físicamente posible.
 - Hacer algo Genial.
 
-### Obteniendo Estrellitas Doradas
+### Obtaining Golden Stars
 
 Las Estrellitas Doradas se pueden obtener por medio de:
 
@@ -576,19 +572,19 @@ Las Estrellitas Doradas se pueden obtener por medio de:
 - Cumplir su Compulsión (1 vez por Sesión).
 - Finalizar de manera exitosa una Escena.
 
-## Combate
+## Combat
 
 En caso de querer proceder por medios violentos, un set de reglas particulares aplica. El combate en BYGR busca ser más directo, caótico e impotente que otros sistemas. Busca marcar la diferencia entre personas que nunca han levantado un puño a los que practican la violencia como forma de vida. Busca representar la impotencia de atacar a alguien y la posibilidad de no ejercer un daño real en el oponente. Pero al mismo tiempo, las personas al mismo tiempo son increíblemente frágiles y siempre tienen la posibilidad de que un golpe certero puede ser increíblemente fatal o incapacitante.
 
-### Perfecto, ¿cómo le pego a alguien?
+### Perfect. How do I hit someone?
 
 El combate inicia con la declaración de combate. Cada participante atacará en su turno y podrán realizar diversas acciones.
 
-### Iniciativa
+### Initiative
 
 En caso de estar ambos bandos preparados para el ataque, se realizará una tirada de Mantra de Habilidad pura para definir quien ataca primero. Los resultados se ordenarán en función al puntaje de “¿Por Cuánto Pasaste?”
 
-### Emboscadas, Gente Escondida y Acciones Violentas Inesperadas
+### Ambushes, Hidden People & Sudden Violence
 
 En caso de un bando estar esperando al otro de manera oculta, ambos bandos realizarán una tirada opuesta y el que tenga un mejor resultado en base a “¿Por cuánto pasaste?”.
 
@@ -598,7 +594,7 @@ En caso de que la tirada de Esconderse supere a la de Análisis de Entornos, los
 
 En caso de que los emboscados superen la tirada, ellos descubrirán la emboscada, anulando la ronda extra de los atacantes y se tirará Iniciativa normalmente.
 
-### Acciones
+### Actions
 
 En un combate se puede realizar una serie de acciones establecida, aunque siempre se puede proponer algo nuevo y fantástico y quedará a criterio del Master definir si es una acción válida.
 
@@ -609,7 +605,7 @@ En un combate se puede realizar una serie de acciones establecida, aunque siempr
 - Acciones Opuestas y Maniobras
 - Cualquier Cosa Fantástica
 
-### Iniciando el combate cuerpo a cuerpo
+### Melee Start
 
 En caso de pelear cuerpo a cuerpo con alguien, los combatientes deben iniciar combate entre sí. Para esto, el que actúe primero puede Cargar contra un oponente, luego de esto, ambos combatientes estarán enfrentados en combate entre sí.
 
