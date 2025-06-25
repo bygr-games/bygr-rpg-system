@@ -486,21 +486,21 @@ Master: You reach the end of the corridor, however the door is locked and there 
 
 Fede: I approach the guard and tell them that their mother is being eaten by a Chupalobos on the other side of the door.
 
-\*The Master considers this to be a challenge of Formidable difficulty, as the Guard’s mom is right now having a most lovely weekend vacation.\*
+*The Master considers this to be a challenge of Formidable difficulty, as the Guard’s mom is right now having a most lovely weekend vacation.*
 
 Master: Roll Bluff d100
 
-\*Fede rolls a d100 and gets a 12. Fede has 35 in Bluff \*
+*Fede rolls a d100 and gets a 12. Fede has 35 in Bluff*
 
 Master: “By how much did you pass?”
 
-\*Fede quickly calculates 35-12=23*\
+*Fede quickly calculates 35-12=23*
 
 Fede: By 23!
 
 Master: Wow! Your lie is so convincing that the man is worried for his mother and wonders how she returned so fast to the city. Fede, while we’re at it, PLEASE tell me a bit how was it that you told him…
 
-\*Cut the camera to Fede with the Guard screaming for her mother’s wellbeing\*
+*Cut the camera to Fede with the Guard screaming for her mother’s wellbeing*
 
 #### What if I want to use a Golden Star?
 
