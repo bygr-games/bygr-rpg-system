@@ -483,6 +483,7 @@ With these difficulties defined, once presented the challenge to the player, the
 Example:
 
 Master: You reach the end of the corridor, however the door is locked and there is a guard guarding it.
+
 Fede: I approach the guard and tell them that their mother is being eaten by a Chupalobos on the other side of the door.
 
 \*The Master considers this to be a challenge of Formidable difficulty, as the Guard’s mom is right now having a most lovely weekend vacation.\*
